@@ -540,5 +540,18 @@
         "LocusStructure": "(CAG)*",
         "ReferenceRegion": "chr18:55586155-55586227",
         "VariantType": "Repeat"
-    }
+    },
+     {
+         "LocusId": "ZFHX3",
+         "LocusStructure": "(RCC)*",
+         "ReferenceRegion": "16:72787694-72787757",
+         "VariantId": "ZFHX3",
+         "VariantType": "Repeat"
+     },
+    {
+        "LocusId": "FGF14",
+        "LocusStructure": "(GAA)*",
+        "ReferenceRegion": "13:102161576-102161726",
+        "VariantType": "Repeat"
+    }  
 ]
