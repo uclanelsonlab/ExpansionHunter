@@ -559,5 +559,11 @@
         "LocusStructure": "(GGC)*",
         "ReferenceRegion": "1:149390802-149390829",
         "VariantType": "Repeat"
+    },
+    {
+        "LocusId": "DAB1",
+        "LocusStructure": "(GAAAT)*",
+        "ReferenceRegion": "chr1:57367043-57367118",
+        "VariantType": "Repeat"
     }
 ]
