@@ -627,6 +627,12 @@
         "VariantType": "Repeat"
     },
     {
+        "LocusId": "BEAN1_3",
+        "LocusStructure": "(TAAAA)*",
+        "ReferenceRegion": "chr16:66490398-66490466",
+        "VariantType": "Repeat"
+    },
+    {
         "LocusId": "COMP",
         "LocusStructure": "(GTC)*",
         "ReferenceRegion": "chr19:18786034-18786049",
